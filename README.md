@@ -2,7 +2,7 @@
 
 i'm Michele, a [unipd](https://www.unipd.it/) CS student. I work on randoms projects involving different tecnologies
 
-things that i'mm currently learning:
+things that i'm currently learning:
 - Operating Systems
 - C language
 - React
