@@ -2,11 +2,18 @@
 
 i'm Michele, a [unipd](https://www.unipd.it/) CS student. I work on randoms projects involving different tecnologies
 
+things that i'mm currently learning:
+- Operating Systems
+- C language
+- React
+- Docker
+
 ## My skill set
 <p align="left">
-  <a href="https://mariadb.com/"><img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/mariadb/mariadb-original-wordmark.svg" height="40"/></a>
+   <a href="https://mariadb.com/"><img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/mariadb/mariadb-original-wordmark.svg" height="40"/></a>
    <a href="https://arduino.cc/"><img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/arduino/arduino-original-wordmark.svg" height="40"/></a>
    <a href="https://https://getbootstrap.com//"><img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/bootstrap/bootstrap-original.svg" height="40"/></a>
+   <a href="https://tailwindcss.com/"><img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/tailwindcss/tailwindcss-original.svg" height="40"/></a>
    <a href="https://https://www.c-language.org//"><img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/c/c-original.svg" height="40"/></a>
    <a href="https://https://www.w3.org/Style/CSS//"><img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/css3/css3-original.svg" height="40" /></a>
    <a href="https://html.spec.whatwg.org/multipage//"><img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/html5/html5-original.svg" height="40" /></a>
