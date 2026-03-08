@@ -7,6 +7,7 @@ things that i'm currently learning:
 - C language
 - React
 - Docker
+- Discrete math
 
 ## My skill set
 <p align="left">
