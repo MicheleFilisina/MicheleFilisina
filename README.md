@@ -1,14 +1,13 @@
-i'm Michele, a [unipd](https://www.unipd.it/) CS student. I work on randoms projects involving different tecnologies
+i'm Michele, a [unipd](https://www.unipd.it/) CS student. I work on personal projects involving different tecnologies
 
 things that i'm currently learning:
 - Operating Systems
 - C language
-- React
 - Docker
 - Discrete math
 
 ## My skill set
-<p align="left">
+<p align="center">
    <a href="https://mariadb.com/"><img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/mariadb/mariadb-original-wordmark.svg" height="40"/></a>
    <a href="https://arduino.cc/"><img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/arduino/arduino-original-wordmark.svg" height="40"/></a>
    <a href="https://https://getbootstrap.com//"><img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/bootstrap/bootstrap-original.svg" height="40"/></a>
@@ -29,7 +28,8 @@ things that i'm currently learning:
    <a href="https://www.python.org/"><img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/python/python-original.svg" height="40" /></a>
    <a href="https://react.dev/"><img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/react/react-original.svg" height="40" /></a>
    <a href="https://svelte.dev/"><img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/svelte/svelte-original.svg" height="40" /></a>
-   <a href="https://www.latex-project.org//"><img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/latex/latex-original.svg" height="40" /></a>
+   <a href="https://www.latex-project.org/"><img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/latex/latex-original.svg" height="40" /></a>
+   <a href="https://www.gnu.org/software/bash/"><img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/bash/bash-original.svg" height="40" /></a>
 </p>
 
 im passionate about competitive mathematics and advanced problem-solving strategies.
