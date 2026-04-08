@@ -2,9 +2,9 @@ i'm Michele, a [unipd](https://www.unipd.it/) CS student. I work on personal pro
 
 things that i'm currently learning:
 - Operating Systems
-- C language
+- ANSI C
 - Docker
-- Discrete math
+- Emacs/Lips
 
 ## My skill set
 <p align="center">
